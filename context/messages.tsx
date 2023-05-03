@@ -1,3 +1,5 @@
+"use client";
+
 import { Message } from "@/lib/validators/message";
 import { ReactNode, createContext, useState } from "react";
 import { nanoid } from "nanoid";

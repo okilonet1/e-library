@@ -1,4 +1,4 @@
-export const bookData = `
+export const data = `
 <url>
 <loc>https://books.toscrape.com/</loc>
 <desc>Your book store</desc>
@@ -45,3 +45,5 @@ export const bookData = `
 
 // for development
 // move to dynamic mapping for production
+
+// create dynamic data schema for live
